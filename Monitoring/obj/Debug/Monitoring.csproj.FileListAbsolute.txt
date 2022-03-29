@@ -1,0 +1,24 @@
+C:\Users\user\source\repos\Monitoring\Monitoring\bin\Debug\Images\monitoring.ico
+C:\Users\user\source\repos\Monitoring\Monitoring\bin\Debug\Monitoring.exe.config
+C:\Users\user\source\repos\Monitoring\Monitoring\bin\Debug\Monitoring.exe
+C:\Users\user\source\repos\Monitoring\Monitoring\bin\Debug\Monitoring.pdb
+C:\Users\user\source\repos\Monitoring\Monitoring\obj\Debug\Monitoring.csprojAssemblyReference.cache
+C:\Users\user\source\repos\Monitoring\Monitoring\obj\Debug\Monitoring.Properties.Resources.resources
+C:\Users\user\source\repos\Monitoring\Monitoring\obj\Debug\Monitoring.csproj.GenerateResource.cache
+C:\Users\user\source\repos\Monitoring\Monitoring\obj\Debug\Monitoring.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\Monitoring\Monitoring\obj\Debug\Monitoring.exe
+C:\Users\user\source\repos\Monitoring\Monitoring\obj\Debug\Monitoring.pdb
+C:\Users\user\source\repos\Monitoring\Monitoring\obj\Debug\Monitoring.MainForm.resources
+C:\Users\user\source\repos\Monitoring\Monitoring\obj\Debug\Monitoring.Forms.OptionsForm.resources
+C:\Users\sirin\OneDrive\Рабочий стол\Monitoring\Monitoring\bin\Debug\Images\monitoring.ico
+C:\Users\sirin\OneDrive\Рабочий стол\Monitoring\Monitoring\bin\Debug\Monitoring.exe.config
+C:\Users\sirin\OneDrive\Рабочий стол\Monitoring\Monitoring\bin\Debug\Monitoring.exe
+C:\Users\sirin\OneDrive\Рабочий стол\Monitoring\Monitoring\bin\Debug\Monitoring.pdb
+C:\Users\sirin\OneDrive\Рабочий стол\Monitoring\Monitoring\obj\Debug\Monitoring.csprojAssemblyReference.cache
+C:\Users\sirin\OneDrive\Рабочий стол\Monitoring\Monitoring\obj\Debug\Monitoring.MainForm.resources
+C:\Users\sirin\OneDrive\Рабочий стол\Monitoring\Monitoring\obj\Debug\Monitoring.Forms.OptionsForm.resources
+C:\Users\sirin\OneDrive\Рабочий стол\Monitoring\Monitoring\obj\Debug\Monitoring.Properties.Resources.resources
+C:\Users\sirin\OneDrive\Рабочий стол\Monitoring\Monitoring\obj\Debug\Monitoring.csproj.GenerateResource.cache
+C:\Users\sirin\OneDrive\Рабочий стол\Monitoring\Monitoring\obj\Debug\Monitoring.csproj.CoreCompileInputs.cache
+C:\Users\sirin\OneDrive\Рабочий стол\Monitoring\Monitoring\obj\Debug\Monitoring.exe
+C:\Users\sirin\OneDrive\Рабочий стол\Monitoring\Monitoring\obj\Debug\Monitoring.pdb
