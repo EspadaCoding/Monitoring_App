@@ -154,7 +154,7 @@ namespace Monitoring.Forms
         private void button_Clear_Click(object sender, EventArgs e)
         {
             if (richTextBox_Applications.Text.Length > 0) richTextBox_Applications.Text = string.Empty;
-            else MessageBox.Show("Список программ пуст!", "Внимание", MessageBoxButtons.OK, MessageBoxIcon.Error);
+            else MessageBox.Show("The list of programs is empty!", "Attention", MessageBoxButtons.OK, MessageBoxIcon.Error);
         }
 
         public void BackUp()
@@ -215,7 +215,7 @@ namespace Monitoring.Forms
                 richTextBox_Applications.Text += comboBox_Items.SelectedItem.ToString();
                 richTextBox_Applications.Text += Environment.NewLine;
             }
-            else MessageBox.Show("Данное приложение уже добавлено!", "Внимение", MessageBoxButtons.OK, MessageBoxIcon.Error);
+            else MessageBox.Show("This application has already been added!", "Attention", MessageBoxButtons.OK, MessageBoxIcon.Error);
 
             try { comboBox_Items.SelectedIndex = -1; }
             catch (Exception) { }

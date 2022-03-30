@@ -123,7 +123,7 @@ namespace Monitoring
 
             if (IsStarted)
             {
-                button_Start.Text = "Выключить";
+                button_Start.Text = "Turn off";
                 button_Options.Enabled = false;
                 hook = new MyKeyboardHook();
                 hook.Install();
@@ -143,7 +143,7 @@ namespace Monitoring
             }
             else
             {
-                button_Start.Text = "Включить";
+                button_Start.Text = "Turn on";
                 button_Options.Enabled = true;
                 hook.Uninstall();
                 timer.Stop();

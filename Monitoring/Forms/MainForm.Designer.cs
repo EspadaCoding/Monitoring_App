@@ -37,24 +37,24 @@ namespace Monitoring
             // button_Start
             // 
             this.button_Start.BackColor = System.Drawing.Color.PaleGreen;
-            this.button_Start.Font = new System.Drawing.Font("Source Sans Pro", 13F);
+            this.button_Start.Font = new System.Drawing.Font("Microsoft Sans Serif", 13F);
             this.button_Start.Location = new System.Drawing.Point(48, 21);
             this.button_Start.Name = "button_Start";
             this.button_Start.Size = new System.Drawing.Size(128, 38);
             this.button_Start.TabIndex = 0;
-            this.button_Start.Text = "Включить";
+            this.button_Start.Text = "Turn on";
             this.button_Start.UseVisualStyleBackColor = false;
             this.button_Start.Click += new System.EventHandler(this.button_Start_Click);
             // 
             // button_Options
             // 
             this.button_Options.BackColor = System.Drawing.Color.PaleGreen;
-            this.button_Options.Font = new System.Drawing.Font("Source Sans Pro", 13F);
+            this.button_Options.Font = new System.Drawing.Font("Microsoft Sans Serif", 13F);
             this.button_Options.Location = new System.Drawing.Point(194, 21);
             this.button_Options.Name = "button_Options";
             this.button_Options.Size = new System.Drawing.Size(128, 38);
             this.button_Options.TabIndex = 1;
-            this.button_Options.Text = "Настройки";
+            this.button_Options.Text = "Settings";
             this.button_Options.UseVisualStyleBackColor = false;
             this.button_Options.Click += new System.EventHandler(this.button_Options_Click);
             // 

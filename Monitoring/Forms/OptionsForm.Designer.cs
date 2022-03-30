@@ -46,24 +46,24 @@ namespace Monitoring.Forms
             // button_Cancel
             // 
             this.button_Cancel.BackColor = System.Drawing.Color.PaleGreen;
-            this.button_Cancel.Font = new System.Drawing.Font("Source Sans Pro", 13F);
+            this.button_Cancel.Font = new System.Drawing.Font("Microsoft Sans Serif", 13F);
             this.button_Cancel.Location = new System.Drawing.Point(83, 503);
             this.button_Cancel.Name = "button_Cancel";
             this.button_Cancel.Size = new System.Drawing.Size(128, 39);
             this.button_Cancel.TabIndex = 2;
-            this.button_Cancel.Text = "Отмена";
+            this.button_Cancel.Text = "Cancel";
             this.button_Cancel.UseVisualStyleBackColor = false;
             this.button_Cancel.Click += new System.EventHandler(this.button_Cancel_Click);
             // 
             // button_Accept
             // 
             this.button_Accept.BackColor = System.Drawing.Color.PaleGreen;
-            this.button_Accept.Font = new System.Drawing.Font("Source Sans Pro", 13F);
+            this.button_Accept.Font = new System.Drawing.Font("Microsoft Sans Serif", 13F);
             this.button_Accept.Location = new System.Drawing.Point(310, 503);
             this.button_Accept.Name = "button_Accept";
             this.button_Accept.Size = new System.Drawing.Size(128, 39);
             this.button_Accept.TabIndex = 3;
-            this.button_Accept.Text = "Применить";
+            this.button_Accept.Text = "Apply";
             this.button_Accept.UseVisualStyleBackColor = false;
             this.button_Accept.Click += new System.EventHandler(this.button_Accept_Click);
             // 
@@ -71,13 +71,13 @@ namespace Monitoring.Forms
             // 
             this.checkBox_Statistic.AutoSize = true;
             this.checkBox_Statistic.CheckAlign = System.Drawing.ContentAlignment.MiddleRight;
-            this.checkBox_Statistic.Font = new System.Drawing.Font("Source Sans Pro", 14F, System.Drawing.FontStyle.Bold);
+            this.checkBox_Statistic.Font = new System.Drawing.Font("Microsoft Sans Serif", 14F, System.Drawing.FontStyle.Bold);
             this.checkBox_Statistic.ForeColor = System.Drawing.Color.LimeGreen;
             this.checkBox_Statistic.Location = new System.Drawing.Point(17, 11);
             this.checkBox_Statistic.Name = "checkBox_Statistic";
-            this.checkBox_Statistic.Size = new System.Drawing.Size(136, 28);
+            this.checkBox_Statistic.Size = new System.Drawing.Size(109, 28);
             this.checkBox_Statistic.TabIndex = 4;
-            this.checkBox_Statistic.Text = "Статистика";
+            this.checkBox_Statistic.Text = "Statistics";
             this.checkBox_Statistic.UseVisualStyleBackColor = true;
             this.checkBox_Statistic.Click += new System.EventHandler(this.checkBox_Statistic_Click);
             // 
@@ -85,51 +85,51 @@ namespace Monitoring.Forms
             // 
             this.checkBox_Moderation.AutoSize = true;
             this.checkBox_Moderation.CheckAlign = System.Drawing.ContentAlignment.MiddleRight;
-            this.checkBox_Moderation.Font = new System.Drawing.Font("Source Sans Pro", 14F, System.Drawing.FontStyle.Bold);
+            this.checkBox_Moderation.Font = new System.Drawing.Font("Microsoft Sans Serif", 14F, System.Drawing.FontStyle.Bold);
             this.checkBox_Moderation.ForeColor = System.Drawing.Color.LimeGreen;
             this.checkBox_Moderation.Location = new System.Drawing.Point(18, 132);
             this.checkBox_Moderation.Name = "checkBox_Moderation";
-            this.checkBox_Moderation.Size = new System.Drawing.Size(179, 28);
+            this.checkBox_Moderation.Size = new System.Drawing.Size(134, 28);
             this.checkBox_Moderation.TabIndex = 5;
-            this.checkBox_Moderation.Text = "Модерирование";
+            this.checkBox_Moderation.Text = "Moderation";
             this.checkBox_Moderation.UseVisualStyleBackColor = true;
             this.checkBox_Moderation.Click += new System.EventHandler(this.checkBox_Moderation_Click);
             // 
             // textBox_Path
             // 
             this.textBox_Path.Enabled = false;
-            this.textBox_Path.Font = new System.Drawing.Font("Source Sans Pro", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(204)));
+            this.textBox_Path.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(204)));
             this.textBox_Path.Location = new System.Drawing.Point(83, 51);
             this.textBox_Path.Name = "textBox_Path";
-            this.textBox_Path.Size = new System.Drawing.Size(355, 28);
+            this.textBox_Path.Size = new System.Drawing.Size(355, 26);
             this.textBox_Path.TabIndex = 6;
             // 
             // label_Path
             // 
             this.label_Path.AutoSize = true;
             this.label_Path.Enabled = false;
-            this.label_Path.Font = new System.Drawing.Font("Source Sans Pro", 14F);
+            this.label_Path.Font = new System.Drawing.Font("Microsoft Sans Serif", 14F);
             this.label_Path.Location = new System.Drawing.Point(19, 51);
             this.label_Path.Name = "label_Path";
-            this.label_Path.Size = new System.Drawing.Size(58, 24);
+            this.label_Path.Size = new System.Drawing.Size(57, 24);
             this.label_Path.TabIndex = 7;
-            this.label_Path.Text = "Путь :";
+            this.label_Path.Text = "Path :";
             // 
             // label_Applications
             // 
             this.label_Applications.AutoSize = true;
             this.label_Applications.Enabled = false;
-            this.label_Applications.Font = new System.Drawing.Font("Source Sans Pro", 14F);
+            this.label_Applications.Font = new System.Drawing.Font("Microsoft Sans Serif", 14F);
             this.label_Applications.Location = new System.Drawing.Point(19, 168);
             this.label_Applications.Name = "label_Applications";
-            this.label_Applications.Size = new System.Drawing.Size(127, 24);
+            this.label_Applications.Size = new System.Drawing.Size(122, 24);
             this.label_Applications.TabIndex = 9;
-            this.label_Applications.Text = "Приложения :";
+            this.label_Applications.Text = "Applications :";
             // 
             // richTextBox_Applications
             // 
             this.richTextBox_Applications.Enabled = false;
-            this.richTextBox_Applications.Font = new System.Drawing.Font("Source Sans Pro", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(204)));
+            this.richTextBox_Applications.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(204)));
             this.richTextBox_Applications.Location = new System.Drawing.Point(23, 195);
             this.richTextBox_Applications.Name = "richTextBox_Applications";
             this.richTextBox_Applications.ReadOnly = true;
@@ -141,11 +141,11 @@ namespace Monitoring.Forms
             // 
             this.label_Info.AutoSize = true;
             this.label_Info.Enabled = false;
-            this.label_Info.Font = new System.Drawing.Font("Source Sans Pro", 8F);
+            this.label_Info.Font = new System.Drawing.Font("Microsoft Sans Serif", 8F);
             this.label_Info.ForeColor = System.Drawing.Color.DarkGreen;
             this.label_Info.Location = new System.Drawing.Point(20, 82);
             this.label_Info.Name = "label_Info";
-            this.label_Info.Size = new System.Drawing.Size(443, 14);
+            this.label_Info.Size = new System.Drawing.Size(472, 13);
             this.label_Info.TabIndex = 14;
             this.label_Info.Text = "Если не выбрать путь к файлу, то он будет установлен по умолчанию (в папке програ" +
     "ммы).";
@@ -154,18 +154,18 @@ namespace Monitoring.Forms
             // 
             this.button_Clear.BackColor = System.Drawing.SystemColors.ButtonFace;
             this.button_Clear.Enabled = false;
-            this.button_Clear.Font = new System.Drawing.Font("Source Sans Pro", 10F);
+            this.button_Clear.Font = new System.Drawing.Font("Microsoft Sans Serif", 10F);
             this.button_Clear.Location = new System.Drawing.Point(234, 435);
             this.button_Clear.Name = "button_Clear";
             this.button_Clear.Size = new System.Drawing.Size(85, 25);
             this.button_Clear.TabIndex = 16;
-            this.button_Clear.Text = "Очистить";
+            this.button_Clear.Text = "Clean";
             this.button_Clear.UseVisualStyleBackColor = false;
             this.button_Clear.Click += new System.EventHandler(this.button_Clear_Click);
             // 
             // comboBox_Items
             // 
-            this.comboBox_Items.Font = new System.Drawing.Font("Source Sans Pro", 14F);
+            this.comboBox_Items.Font = new System.Drawing.Font("Microsoft Sans Serif", 14F);
             this.comboBox_Items.FormattingEnabled = true;
             this.comboBox_Items.Items.AddRange(new object[] {
             "notepad",
@@ -179,7 +179,7 @@ namespace Monitoring.Forms
             this.comboBox_Items.Name = "comboBox_Items";
             this.comboBox_Items.Size = new System.Drawing.Size(143, 32);
             this.comboBox_Items.TabIndex = 17;
-            this.comboBox_Items.Text = "Приложения";
+            this.comboBox_Items.Text = "Applications";
             this.comboBox_Items.SelectedIndexChanged += new System.EventHandler(this.comboBox_Items_SelectedIndexChanged);
             // 
             // OptionsForm
